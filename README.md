@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="600"/>
+</p>
+
 # 👋 Ciao, I'm Simonetta
 
 :sparkles: Bachelor's Degree in Computer Engineering
@@ -6,7 +10,8 @@
 
 
 ## About Me
-Passionate about technology, robotics, and intelligent systems
+Passionate about technology, robotics, and intelligent systems.
+
 With a background in computer and automation engineering, I’m particularly interested in systems where software meets real-world processes.
 
 
