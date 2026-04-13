@@ -1,7 +1,8 @@
-# 👋 Ciao, I'm [Simonetta]
+# 👋 Ciao, I'm Simonetta
 
 :floppy_disk: Bachelor's Degree in Computer Engineering
-:sparkles: Master's Degree in Automation Engineering @ Università degli Studi di Roma Tor Vergata
+
+:sparkles: Master's Degree in Automation Engineering at Università degli Studi di Roma Tor Vergata
 
 
 ## About Me
