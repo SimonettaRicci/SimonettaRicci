@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="banner.png" width="600"/>
-</p>
+
+<img src="images/banner.png" width="1000">
 
 # 👋 Ciao, I'm Simonetta
 
