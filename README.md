@@ -24,7 +24,11 @@
 ## Contact
 
 * 📧 Email: simonetta.ricci@outlook.com
-* 💼 LinkedIn: [your link]
+* <p>
+  💼 <a href="https://www.linkedin.com/in/simonetta-ricci-67125a402/" target="_blank">
+    LinkedIn Profile
+  </a>
+</p>
 
 <img src="images/top.jpg" width="1000">
 
